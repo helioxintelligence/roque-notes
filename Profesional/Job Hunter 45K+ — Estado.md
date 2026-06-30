@@ -1,28 +1,18 @@
 # 🎯 Job Hunter 45K+ — Estado
 
-## 📊 Radar diario
-- **Horario:** L-V 8:00 (hora España)
+## ⏰ Programación
+- **Frecuencia:** Martes y Jueves, 8:00 AM España
+- **Modelo:** DeepSeek Flash (agente) + Perplexity Sonar Pro (búsqueda)
 - **Canal:** Email a muchag@hotmail.com
-- **Salario mínimo:** 45.000 €
-- **Prioridad:** Gran Canaria > Remoto > Canarias
-- **Jornada:** Lunes a viernes mañana
+- **Fuentes:** LinkedIn, InfoJobs, Indeed, Jooble, Jobted, Catenon + deep research
 
-## 📌 Últimas ofertas detectadas
-_(se actualiza automáticamente cada día)_
+## 📌 Últimas ofertas
+_(se actualiza automáticamente cada mar/jue)_
 
-| Fecha | Puesto | Empresa | Ubicación | Encaje |
-|-------|--------|---------|-----------|:------:|
-| — | — | — | — | — |
-
-## 🏢 Candidatura espontánea (pendientes)
-- ⏳ Colegio Arenas (Gran Canaria)
-- ⏳ British School of Gran Canaria
-- ⏳ Colegio Heidelberg (Gran Canaria)
-- ⏳ Lopesan Hotel Group (oficinas centrales)
-
-## ✅ Enviadas
-_(cuando confirmes candidaturas, las registramos aquí)_
-
-| Fecha | Empresa | Puesto | Estado |
-|-------|---------|--------|:------:|
-| — | — | — | — |
+## 🏢 Targets GC
+- Colegio Arenas · British School GC · Colegio Heidelberg
+- Lopesan Hotel Group (oficinas centrales)
+- Satocen · GFI Canarias
+- Meliá Hotels International
+- Bee Green (Domingo Alonso Group)
+- Televisión Pública de Canarias
