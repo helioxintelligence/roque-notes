@@ -1,25 +1,24 @@
-# 📒 Vault de Abraham
+# 📒 Vault de Abraham — Organizado
 
-Este es mi espacio de notas compartido con Roque.
-
----
-
-## 📱 Instagram — Vacaciones Mures
-- **Fecha:** 28/06/2026
-- **Texto:**
-  > 🛎️ Notificación del pueblo
-  >
-  > Esta semana: modo avión en Mures.
-  >
-  > 🌿 Naturaleza, 🚲 bicicleta, ☀️ familia y nada de prisa.
-  >
-  > De esos días en los que el móvil se queda en la mesa y el mejor plan es no tener ningún plan.
-  >
-  > El pueblo sienta bien. Muy bien.
-  >
-  > 📍 Mures
-- **Hashtags:** #Mures #PueblosConEncanto #VidaDePueblo #Naturaleza #Bicicleta #FamilyTime #Desconexión #SlowLiving #PueblosBonitos #EspañaRural #VacacionesEnFamilia #AireLimpio #FindeEnElPueblo #Tranquilidad #InstaDaily #SummerVibes
+Bienvenido a tu espacio de notas compartido con Roque. Aquí guardamos todo lo importante.
 
 ---
 
-> Creado el 28/06/2026
+## 📂 Índice de notas
+
+### 📋 Perfil Profesional
+- [[Perfil Maestro Profesional]]
+
+### 🎯 Búsqueda de Empleo
+- [[Job Hunter 45K+ — Estado]]
+- [[Actualizacion Horario Laboral]]
+
+### 📱 Redes y Contenido
+- [[Post Instagram — Mures]]
+
+### 🛠️ Automatizaciones Activas
+- [[Sistema de automatizaciones]]
+
+---
+
+> ⚡ Nota creada por Roque. Cualquier cambio que hagas aquí desde tu iPhone se sincroniza automáticamente vía GitHub.
