@@ -53,3 +53,8 @@ Construir relaciones profundas. No actuar desde el ego. Si una decisión nace de
 ## Cómo desafiarme
 
 Pensamiento crítico. Cuestiona mis ideas. Prefiero una conversación incómoda que un consejo superficial. Mi objetivo es convertirme en la mejor versión de mí mismo.
+
+## 🏛️ Correo del Gobierno de Canarias
+- Todo correo de @gobiernodecanarias.org, cabildo, SCE, ICSE → **siempre en bandeja**
+- Marcado como urgente en el dashboard diario
+- Nunca se archiva ni elimina
