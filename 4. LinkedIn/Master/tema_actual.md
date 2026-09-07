@@ -1,40 +1,41 @@
 # Tema actual de LinkedIn — Abraham
 
-**Fecha de selección:** 28 julio 2026 (basado en radar del lunes 27 julio 2026)
+**Fecha de selección:** 1 septiembre 2026 (basado en radar del lunes 31 agosto 2026)
 
 ---
 
 ## Título
 
-**"Tu empleado estrella no está desmotivado: está agotado por un trabajo que no ves"**
+**«El liderazgo no se juega en lo que decides: se juega en cómo conversas»**
 
 ---
 
 ## Categoría
 
-Liderazgo / Personas
+Liderazgo humano / Personas
 
 ---
 
 ## Hook
 
-Los líderes miden el trabajo por horas, plazos y entregables, pero ignoran por completo la carga mental: el esfuerzo cognitivo y emocional continuo que supone gestionar tareas, relaciones y coordinación, dentro y fuera del trabajo. Cuando estas cargas colisionan, fragmentan la atención y generan un agotamiento persistente que drena precisamente a quienes más valor aportan. Abraham puede compartir su experiencia detectando las señales sutiles de la carga mental en sus equipos de retail premium y ofrecer 3 preguntas concretas que todo líder debería hacer esta semana.
+Me hizo pensar. La estrategia, las decisiones, el cambio: todo empieza como una conversación. Y aun así, casi nadie las diseña. Las dejamos al azar y luego nos sorprendemos de que los equipos no rindan. No va de dar mejores respuestas. Va de diseñar mejores conversaciones: con meta clara, con roles claros y con "alma" — esa confianza sin la que nada de lo demás cuaja. Pregunta honesta: ¿cuántas de tus reuniones 1:1 pasan esa auditoría?
 
 ---
 
 ## Por qué encaja
 
-1. **Artículo recién publicado.** HBR acaba de publicar "The Invisible Work Draining Your Best Employees" (julio 2026). Abraham obtiene ventaja de *early mover* en LinkedIn España — casi nadie estará hablando aún de este hallazgo.
+1. **Es literalmente su identidad.** Abraham se define por "combinar exigencia con humanidad", y su mayor fortaleza confesada es "sostener conversaciones difíciles sin perder el respeto por quien tengo delante". El marco del radar —diseñar conversaciones con metas, roles y alma— es la traducción exacta de eso: estructura (metas y roles) más humanidad (alma). Es el único tema en el que habla desde su centro, no desde una tendencia.
 
-2. **Conexión directa con la experiencia de Abraham.** Como líder en retail de lujo que gestiona equipos en tienda, Abraham ve a diario los síntomas de la carga mental invisible: el empleado que rinde pero llega agotado, el que coordina mil cosas fuera de su job description, el que carga con el peso emocional del equipo.
+2. **Variedad respecto a la semana anterior.** La semana pasada fue retail premium ("el nuevo lujo no se compra"). Esta semana volvemos al liderazgo, manteniendo la alternancia liderazgo → retail que marca la estrategia y evita repetir territorio dos semanas seguidas.
 
-3. **Refuerzo con Harvard Deusto.** El artículo conecta naturalmente con "El verdadero valor del talento: más allá de la visibilidad" (Harvard Deusto, julio 2026), que advierte contra premiar solo el talento ruidoso ignorando al que sostiene todo en silencio.
+3. **Le da un giro propio a un territorio ya suyo.** Abraham ya tiene borradores sobre conversaciones difíciles y feedback. Este tema no los repite: los eleva. Pasa de "cómo tener conversaciones incómodas" a "toda conversación es diseñable". Es evolución de marca, no repetición.
 
-4. **Formato práctico y accionable.** Propone 3 preguntas concretas que todo líder puede hacer a su equipo esta misma semana. El contenido práctico genera alto engagement en LinkedIn (guardados, compartidos, comentarios).
+4. **Frescura de fuentes.** HBR *"How the Best Leaders Shape Conversations"* (ago 2026) y Harvard Deusto *"El liderazgo centrado en las personas como clave para fidelizar el talento"*. Dos fuentes recientes y de peso para entrar en la conversación sin que se haya enfriado.
 
-5. **Máxima prioridad del radar.** Valorado con ⭐⭐⭐⭐⭐, recomendado para publicación inmediata. Combina investigación fresca, gancho emocional, aplicabilidad práctica y perfil diferencial de Abraham.
+5. **Tensión narrativa real.** "El liderazgo se juega en cómo conversas, no en lo que decides" desafía la idea de que liderar es decidir bien. Es debatible, incómodo y genera comentarios: posiciona a Abraham como voz con criterio, no como divulgador de una herramienta.
+
+6. **Accionable y comentable.** Invita a una auditoría concreta de las reuniones 1:1 (¿meta? ¿roles? ¿alma?), lo que abre la puerta a que la red responda y comparta su propia experiencia.
 
 ---
 
-**Fuente HBR:** "The Invisible Work Draining Your Best Employees" (Julio 2026)
-**Fuente Deusto:** "El verdadero valor del talento: más allá de la visibilidad"
+**Fuentes:** HBR *"How the Best Leaders Shape Conversations"* (ago 2026) + Harvard Deusto *"El liderazgo centrado en las personas como clave para fidelizar el talento"*
