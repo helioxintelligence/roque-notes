@@ -1,41 +1,41 @@
 # Tema actual de LinkedIn — Abraham
 
-**Fecha de selección:** 1 septiembre 2026 (basado en radar del lunes 31 agosto 2026)
+**Fecha de selección:** 7 septiembre 2026 (basado en radar del lunes 7 septiembre 2026)
 
 ---
 
 ## Título
 
-**«El liderazgo no se juega en lo que decides: se juega en cómo conversas»**
+**«La IA no te hará líder: tu estilo humano es lo que te diferencia»**
 
 ---
 
 ## Categoría
 
-Liderazgo humano / Personas
+Liderazgo humano / Personas (IA con humanidad)
 
 ---
 
 ## Hook
 
-Me hizo pensar. La estrategia, las decisiones, el cambio: todo empieza como una conversación. Y aun así, casi nadie las diseña. Las dejamos al azar y luego nos sorprendemos de que los equipos no rindan. No va de dar mejores respuestas. Va de diseñar mejores conversaciones: con meta clara, con roles claros y con "alma" — esa confianza sin la que nada de lo demás cuaja. Pregunta honesta: ¿cuántas de tus reuniones 1:1 pasan esa auditoría?
+Me hizo pensar. Llevamos meses hablando de la IA como si fuera a resolverlo todo. Y cuanto más la veo metida en la gestión, más claro tengo una cosa: no nos está haciendo más líderes, nos está haciendo más iguales. Mismo tono, mismas respuestas, mismas plantillas. La IA puede escalar lo que sabes. No puede replicar cómo eres. Pregunta honesta: si mañana te quitaran la IA, ¿qué quedaría de tu forma de liderar?
 
 ---
 
 ## Por qué encaja
 
-1. **Es literalmente su identidad.** Abraham se define por "combinar exigencia con humanidad", y su mayor fortaleza confesada es "sostener conversaciones difíciles sin perder el respeto por quien tengo delante". El marco del radar —diseñar conversaciones con metas, roles y alma— es la traducción exacta de eso: estructura (metas y roles) más humanidad (alma). Es el único tema en el que habla desde su centro, no desde una tendencia.
+1. **Es su identidad exacta.** Abraham se define por "combinar exigencia con humanidad". El radar lo llama literalmente "el cruce exacto del posicionamiento de Abraham: liderazgo con humanidad". Aquí no habla desde una tendencia: la IA es solo el contraste que hace visible su diferenciador. Abraham no compite contra la IA, compite con un estilo que la IA no puede replicar.
 
-2. **Variedad respecto a la semana anterior.** La semana pasada fue retail premium ("el nuevo lujo no se compra"). Esta semana volvemos al liderazgo, manteniendo la alternancia liderazgo → retail que marca la estrategia y evita repetir territorio dos semanas seguidas.
+2. **Es la conversación más viva de la semana.** HBR publica esta misma semana *"Don't Let AI Flatten Your Leadership Style"* y *"Middle Managers Will Make or Break AI Adoption"* (G. Tsipursky, 1 sep 2026), y Harvard Deusto dedica la portada de *Management & Innovation 88* al "liderazgo humanista". Es la propuesta con mayor tracción editorial y más frescura del radar (prioridad 🔴 ALTA, recomendada en primer lugar).
 
-3. **Le da un giro propio a un territorio ya suyo.** Abraham ya tiene borradores sobre conversaciones difíciles y feedback. Este tema no los repite: los eleva. Pasa de "cómo tener conversaciones incómodas" a "toda conversación es diseñable". Es evolución de marca, no repetición.
+3. **No repite la semana anterior, la eleva.** La semana pasada fue "cómo conversas" (diseñar conversaciones). Este tema pasa de "cómo lideras a otros" a "qué de ti no puede copiar la IA": un ángulo distinto dentro del mismo territorio, con tensión nueva. Además evita el riesgo mayor de la alternativa retail (#3), que roza el post de retail premium de hace dos semanas ("el nuevo lujo no se compra").
 
-4. **Frescura de fuentes.** HBR *"How the Best Leaders Shape Conversations"* (ago 2026) y Harvard Deusto *"El liderazgo centrado en las personas como clave para fidelizar el talento"*. Dos fuentes recientes y de peso para entrar en la conversación sin que se haya enfriado.
+4. **Tensión narrativa real.** "La IA no te hará líder" desafía el hype de que la IA nos hará mejores gestores. Es debatible e incómodo, genera comentarios y posiciona a Abraham como voz con criterio, no como divulgador de una herramienta.
 
-5. **Tensión narrativa real.** "El liderazgo se juega en cómo conversas, no en lo que decides" desafía la idea de que liderar es decidir bien. Es debatible, incómodo y genera comentarios: posiciona a Abraham como voz con criterio, no como divulgador de una herramienta.
+5. **Accionable y comentable.** Cierra con una auditoría concreta ("si te quitaran la IA, ¿qué quedaría?"), que invita a la red a responder con su propia experiencia.
 
-6. **Accionable y comentable.** Invita a una auditoría concreta de las reuniones 1:1 (¿meta? ¿roles? ¿alma?), lo que abre la puerta a que la red responda y comparta su propia experiencia.
+6. **Reserva el resto para su momento.** El #3 (retail/recomendación) se deja para más adelante por su cercanía al retail premium reciente; el #4 (Canarias) se reserva, como sugiere el propio radar, para cuando haya un gancho de actualidad local (inversión, evento, nombramiento).
 
 ---
 
-**Fuentes:** HBR *"How the Best Leaders Shape Conversations"* (ago 2026) + Harvard Deusto *"El liderazgo centrado en las personas como clave para fidelizar el talento"*
+**Fuentes:** HBR *"Don't Let AI Flatten Your Leadership Style"* + *"Middle Managers Will Make or Break AI Adoption"* (G. Tsipursky, sep 2026) · Harvard Deusto M&I 88 *"Liderazgo humanista: seis claves para ponerlo en práctica"*
