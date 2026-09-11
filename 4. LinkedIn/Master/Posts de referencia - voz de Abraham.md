@@ -129,3 +129,19 @@ Por todas las moto mamis.
 - ✅ Cerrar con una verdad que se quede
 - ✅ Puntos suspensivos para pausas
 - ✅ Español natural, no artificioso
+
+---
+
+## ⚠️ CORRECCIÓN IMPORTANTE (sept 2026)
+
+Abraham NO quiere que se use "llevo 15 años" / "15 años en Retail" como credencial o autoridad. Suena superficial y como si tuviera "potestad". 
+
+Regla: la experiencia se menciona como CONTEXTO (lo que ha vivido), nunca como título de autoridad. Ser más humilde, sin caer en falsa modestia. Ejemplos:
+
+- ❌ "Con 15 años de experiencia liderando equipos..."
+- ✅ "He tenido la suerte de aprender de mucha gente durante estos años..."
+
+- ❌ "Como Director con 15 años en Apple, sé que..."
+- ✅ "A mí también me cuesta. Sigo aprendiendo."
+
+La autoridad se gana con la historia y la reflexión, no declarándola.
