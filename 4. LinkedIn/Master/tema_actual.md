@@ -1,41 +1,39 @@
 # Tema actual de LinkedIn — Abraham
 
-**Fecha de selección:** 15 septiembre 2026 (basado en radar del lunes 14 septiembre 2026)
+**Fecha de selección:** 22 septiembre 2026 (basado en radar del lunes 21 septiembre 2026)
 
 ---
 
 ## Título
 
-**«La tienda física no ha muerto: ahora se vive»**
+**«Tu mejor empleado no se va por el sueldo: se va por el trabajo que nadie ve»**
 
 ---
 
 ## Categoría
 
-Retail premium / Experiencia de cliente (CX)
+Liderazgo de personas / Desarrollo de talento
 
 ---
 
 ## Hook
 
-Me hizo pensar algo que me pasó hace unos días. Entré en una tienda buscando algo concreto. No lo tenían. Y salí sin comprar nada... con ganas de volver. No me vendieron un producto: me hicieron vivir un rato que la pantalla no puede darme. Una persona que escucha, un consejo honesto, un detalle que no estaba en el guion. Llevamos años oyendo que la tienda física estaba muerta. Yo creo que no. Ha dejado de ser un sitio para comprar... para ser un sitio para quedarse.
+Me hizo pensar una charla de hace unos días. Me contaban que se les había ido una de las mejores personas del equipo. No por dinero —eso ya lo sabían—. Se fue por algo que nadie nombraba: todo lo que hacía cuando nadie miraba. Las llamadas de más, el compañero al que rescataba, la tensión que se tragaba para que el equipo no la notara. Lo invisible. Y me quedé pensando... a cuánta gente buena perdemos sin darnos cuenta de que se estaba yendo mucho antes de marcharse.
 
 ---
 
 ## Por qué encaja
 
-1. **Es su terreno profesional exacto.** Abraham es manager en retail de alta exigencia y la experiencia de cliente es uno de sus territorios de contenido. Este tema no es una tendencia externa que él "comenta": es literalmente su día a día. La autoridad aquí no se declara, se gana contando una escena real.
+1. **Territorio central y fresco.** Desarrollo de talento y liderazgo de personas es uno de los territorios de contenido de Abraham, y esta semana no repite: la semana pasada fue retail/CX («La tienda física no ha muerto»). Vuelve a personas sin caer en IA.
 
-2. **Rompe la racha de liderazgo/personas y equilibra los territorios.** Las tres últimas piezas han sido de gente y liderazgo ("El liderazgo se juega en cómo conversas", "La IA no te hará líder", "La promesa del entrenador"). Este tema devuelve a Abraham a su identidad profesional de retail/CX sin repetir el tono de las semanas anteriores.
+2. **No se solapa con la racha de IA.** El Tema 1 (IA con humanidad) y el Tema 5 (pensamiento crítico) rozan «La IA no te hará líder» de hace dos semanas. Este es un tema de personas puras, sin IA.
 
-3. **Cabalga noticia fresca de esta misma semana.** Trade/Retail publica el 10 sep "Retail premium: la experiencia se convierte en el nuevo diferencial" y Harvard Deusto publica "De la omnicanalidad a la opticanalidad en el retail" (Gómez Buroz y Stigliano). El radar lo marca como prioridad ALTA.
+3. **Prioridad alta del radar.** Marcado 🔴 Alta: coinciden en la misma semana HBR «The Invisible Work Draining Your Best Employees» y «When There's Nowhere to Promote a Star Employee», con Harvard Deusto «Más allá del salario: la recompensa estratégica como fuente de valor». Es un patrón real de conversación: el talento no se fuga (solo) por sueldo, sino por el desgaste silencioso que nadie reconoce.
 
-4. **No repite la semana anterior.** Evita el eje IA: el Tema 1 (liderazgo con empatía en la adopción de IA) y el Tema 5 (pensamiento crítico) rozan "La IA no te hará líder" de la semana pasada. Y el ángulo es distinto al retail premium reciente ("el nuevo lujo no se compra", hace ~3 semanas): allí era *qué* se compra, aquí es *cómo* se vive la tienda.
+4. **Tiene escena, tensión y verdad.** Cumple el criterio de calidad: la fuga por trabajo invisible es una verdad incómoda y debatible (muchos responderán «no, se van por dinero»), lo que invita a comentar y posiciona a Abraham como líder con criterio en su sector.
 
-5. **Tensión y conversación.** Desafía el tópico de "la tienda física está muerta" y la idea de que el ecommerce se lo come todo. Es debatible, invita a comentar a su audiencia de retail/lujo y posiciona a Abraham como voz con criterio en su sector.
-
-6. **Reserva el resto para su momento.** Tema 1 (IA con humanidad) queda descartado por solaparse con la semana pasada; Tema 2 (trabajo invisible) se guarda para una semana de foco talento/people; Tema 4 (Canarias) se reserva para un gancho local real (inversión, evento, nombramiento); Tema 5 (pensamiento crítico) sirve como cierre de semana.
+5. **Reserva el resto para su momento.** Tema 3 (opticanalidad) se guarda porque la semana pasada ya fue retail/CX y no conviene repetir territorio dos semanas seguidas; Tema 4 (Canarias) sigue esperando un gancho local real; Tema 1 y 5 quedan para una semana de foco IA.
 
 ---
 
-**Fuentes:** Trade/Retail *"Retail premium: la experiencia se convierte en el nuevo diferencial"* (10 sep 2026) · Harvard Deusto *"De la omnicanalidad a la opticanalidad en el 'retail'"* (M. Gómez Buroz y G. Stigliano) · HBR *"The Comeback of the Physical Store"* (abr 2026) + *"Why the Best Immersive Experiences Succeed"* (jul 2026)
+**Fuentes:** HBR «The Invisible Work Draining Your Best Employees» · HBR «When There's Nowhere to Promote a Star Employee» · Harvard Deusto «Más allá del salario: la recompensa estratégica como fuente de valor»
